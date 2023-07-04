@@ -4,7 +4,7 @@ Gem up your browsing experience with Jakkify. Is your browser experience coal? A
 
 [Chrome](TO:DO)
 
-[Firefox](TO:DO)
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-jakkify/)
 
 
 Compatible with all browsers
