@@ -15,7 +15,7 @@
     ],
     "content_scripts": [{
         "matches": ["https://www.youtube.com/*"],
-        "js": ["mrbeastify.js"],
+        "js": ["jakkify.js"],
         "run_at": "document_idle"
     }],
     "web_accessible_resources": [{
