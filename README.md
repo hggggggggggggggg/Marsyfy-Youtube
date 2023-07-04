@@ -9,4 +9,5 @@ Gem up your browsing experience with Jakkify. Is your browser experience coal? A
 
 Compatible with all browsers
 
-![shot2](https://github.com/dogjak/Jakkify-Youtube/assets/136870768/a284028c-282b-40b0-89bd-8a642dc4b3be)
+![Screenshot 1](https://github.com/dogjak/Jakkify-Youtube/assets/136870768/a284028c-282b-40b0-89bd-8a642dc4b3be)
+![Screenshot 2](https://github.com/dogjak/Jakkify-Youtube/assets/136870768/88f5c27a-5ca4-42d6-acb1-c07d3deecbeb)
