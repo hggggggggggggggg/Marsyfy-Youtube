@@ -75,4 +75,4 @@ setInterval(function () {
   applyOverlayToThumbnails();
 }, 100);
 
-console.log("MrJakkify Loaded Successfully");
+console.log("Jakkify Loaded Successfully");
