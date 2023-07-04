@@ -1,12 +1,10 @@
-# Youtube MrBeastify
+# Youtube Jaffiky
 
-Enhance your browsing experience with MrBeastifier. Is your browser experience boring? Are you having trouble finding engaging click-baity videos? Fear no more. This extension adds famous youtuber MrBeast to every thumbnail.
+Gem up your browsing experience with MrJakkify. Is your browser experience coal? Are you having trouble finding engaging click-baity videos? Fear no more. This extension adds soyjaks to every thumbnail.
 
-[Chrome](https://chrome.google.com/webstore/detail/youtube-mrbeastify/dbmaeobgdodeimjdjnkipbfhgeldnmeb)
+[Chrome](TO:DO)
 
-[Firefox](https://addons.mozilla.org/en-GB/firefox/addon/mrbeastify-youtube/)
+[Firefox](TO:DO)
 
 
 Compatible with all browsers
-
-Note: This extension is unofficial and not affiliated with MrBeast or YouTube.
