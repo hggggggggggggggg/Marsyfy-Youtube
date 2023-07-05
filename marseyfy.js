@@ -35,7 +35,7 @@ function applyOverlayToThumbnails() {
   // Apply overlay to each thumbnail
   thumbnailElements.forEach((thumbnailElement) => {
     // Apply overlay and add to processed thumbnails
-    let loops = Math.random() > 0.001 ? 1 : 20; // Easter egg
+    let loops = Math.random() > 0.001 ? 1 : 16; // Easter egg
     for (let i = 0; i < loops; i++) {
       // Get overlay image URL from your directory
       const overlayImageUrl = getRandomImageFromDirectory();
@@ -75,4 +75,4 @@ setInterval(function () {
   applyOverlayToThumbnails();
 }, 100);
 
-console.log("Jakkify Loaded Successfully");
+console.log("Marseyfy Loaded Successfully");

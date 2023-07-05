@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "YouTube Jakkify",
+    "name": "YouTube Marseyfy",
     "version": "0.1",
     "icons": {
         "16": "icons/icon-16.png",
@@ -9,13 +9,13 @@
         "64": "icons/icon-64.png",
         "96": "icons/icon-96.png"
     },
-    "description": "Modify YouTube thumbnails to include Soyjaks",
+    "description": "Modify YouTube thumbnails to include Marseys",
     "permissions": [
         "https://www.youtube.com/*"
     ],
     "content_scripts": [{
         "matches": ["https://www.youtube.com/*"],
-        "js": ["jakkify.js"],
+        "js": ["marseyfy.js"],
         "run_at": "document_idle"
     }],
     "web_accessible_resources": [
