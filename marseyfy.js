@@ -35,7 +35,7 @@ function applyOverlayToThumbnails() {
   // Apply overlay to each thumbnail
   thumbnailElements.forEach((thumbnailElement) => {
     // Apply overlay and add to processed thumbnails
-    let loops = Math.random() > 0.001 ? 1 : 16; // Easter egg
+    let loops = Math.random() > 0.001 ? 1 : 10; // Easter egg
     for (let i = 0; i < loops; i++) {
       // Get overlay image URL from your directory
       const overlayImageUrl = getRandomImageFromDirectory();
@@ -49,7 +49,7 @@ function checkImageAmountInDirectory() { // Checks for all images in the images 
   let imageIndex = 1;
 
   function checkImageExistence() {
-    const testedURL = chrome.runtime.getURL(`${imagesPath}${imageIndex}.png`);
+    const testedURL = chrome.runtime.getURL(`${imagesPath}${imageIndex}.webp`);
     fetch(testedURL)
       .then(response => {
         if (response.status === 200) {
