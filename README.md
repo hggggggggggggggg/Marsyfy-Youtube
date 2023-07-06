@@ -1,6 +1,6 @@
-# Youtube Jaffiky
+# Youtube Marseyfy
 
-Gem up your browsing experience with Jakkify. Is your browser experience coal? Are you having trouble finding engaging click-baity videos? Fear no more. This extension adds soyjaks to every thumbnail.
+Gem up your browsing experience with Marseyfy. Is your browser experience undramatic? Are you having trouble finding engaging click-baity drama? Fear no more. This extension adds Marseys to every thumbnail.
 
 [Chrome](https://chrome.google.com/webstore/detail/youtube-jakkify/mclfmbjmhmbhpihicaeleaijidibfbll)
 
@@ -9,5 +9,8 @@ Gem up your browsing experience with Jakkify. Is your browser experience coal? A
 
 Compatible with all browsers
 
-![Screenshot 1](https://github.com/dogjak/Jakkify-Youtube/assets/136870768/a284028c-282b-40b0-89bd-8a642dc4b3be)
-![Screenshot 2](https://github.com/dogjak/Jakkify-Youtube/assets/136870768/88f5c27a-5ca4-42d6-acb1-c07d3deecbeb)
+![Screenshot 1](img/1.png)
+![Screenshot 2](img/2.png)
+![Screenshot 2](img/3.png)
+![Screenshot 2](img/4.png)
+![Screenshot 2](img/5.png)
