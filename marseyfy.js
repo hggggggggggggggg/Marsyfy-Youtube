@@ -49,7 +49,7 @@ function checkImageAmountInDirectory() { // Checks for all images in the images 
   let imageIndex = 1;
 
   function checkImageExistence() {
-    const testedURL = chrome.runtime.getURL(`${imagesPath}${imageIndex}.png`);
+    const testedURL = chrome.runtime.getURL(`${imagesPath}${imageIndex}.webp`);
     fetch(testedURL)
       .then(response => {
         if (response.status === 200) {
